@@ -42,7 +42,7 @@ int main() {
     copyShips[3][2] = ships[3][2];
     copyShips[3][3] = ships[3][3];
     
-    // finding out how many ship there are to be used in the future
+    // finding out how many ships there are to be used in the future
     int counter {};
     
     for (int i = 0; i < 4; i++) {
@@ -144,6 +144,8 @@ int main() {
             } 
         }
     }
-    
+
+    cin.get();
+
     return 0;
 }
