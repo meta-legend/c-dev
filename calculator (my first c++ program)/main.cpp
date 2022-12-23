@@ -9,7 +9,7 @@ int main() {
     // declaring the neccesary vars
     long double power;
     long double num1;
-    long double  num2;
+    long double num2;
     string operation;
     string decider;
     // making it so that the user can decide if they want to do multiple operations
