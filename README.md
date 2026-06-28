@@ -1,3 +1,2 @@
-# c-dev
-My c++ programs
-These all are all of my first c++ programs!
+# The first C++ things I ever made
+
